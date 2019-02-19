@@ -1,7 +1,6 @@
 import React from "react"
-import ReactDOM from "react-dom"
-import MemeGenerator from ".src/MemeGenerator"
-import Header from ".src/Header"
+import MemeGenerator from "./MemeGenerator"
+import Header from "./Header"
 
 function App() {
     return(
@@ -11,4 +10,5 @@ function App() {
         </div>
     )
 }
+
 export default App
